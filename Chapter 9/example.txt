@@ -1,0 +1,4 @@
+Hello, World! 
+ This is a sample text file. 
+Welcome to Python file handling.
+This line is appended to the file.
